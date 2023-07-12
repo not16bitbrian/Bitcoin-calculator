@@ -1,4 +1,4 @@
-# bitcoin_calculator (Now Completed Project)
+# bitcoin_calculator //flutter,dart (Now Completed Project)
 
 A new Flutter project. This flutter application is in a zip file. Through industry standard practices of passing self written tests and invoking a CI/CD pipeline along with a pull request form for every push, this application can convert USD to Bitcoin and vice versa in real time as it also uses an API to get the data for the calculations.
 
